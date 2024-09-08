@@ -1,0 +1,12 @@
+Drug_ID,Drug_Name,Phase,Therapeutic Area,Start_Date,End_Date,Regulatory Status,Research Site,Patent Expiry Date,Clinical Trial Results,Development Partner,Market Potential $M,Number of Patients Enrolled,Cost_Million_USD,Success_Rate,Supply_Chain_Issues
+6,Atorvastatin,Phase I,Oncology,2015-05-31,2016-02-14,Rejected,Brazil,2034-12-31,More Data Needed,Partner B,815.33,4595,48.71768447232324,Low,Minor
+21,Fentanyl,Phase I,Oncology,2016-08-23,2017-08-14,Pending,China,2049-12-27,Not Effective,Partner A,935.49,3954,19.737240665443466,Medium,Minor
+27,Ketamine,Phase II,Oncology,2017-02-19,2017-11-27,Approved,Brazil,2055-12-26,More Data Needed,Partner C,446.59,5322,161.5756824331051,Medium,None
+32,Methotrexate,Phase III,Oncology,2017-07-19,2018-03-07,Approved,India,2060-12-24,More Data Needed,Partner B,942.54,7127,189.8800005866858,Low,None
+35,Nifedipine,Phase II,Oncology,2017-10-17,2018-03-21,Rejected,USA,2063-12-24,More Data Needed,Partner C,187.46,7179,4.0456035177865655,Low,Major
+36,Omeprazole,Approval,Oncology,2017-11-16,2018-06-06,Approved,USA,2064-12-23,More Data Needed,Partner A,653.51,8087,186.75382530781712,Low,None
+37,Oxycodone,Phase II,Oncology,2017-12-16,2018-06-04,Approved,Germany,2065-12-23,More Data Needed,Partner A,991.05,6899,100.70693689913658,Medium,None
+38,Pantoprazole,Approval,Oncology,2018-01-15,2018-10-13,Pending,China,2066-12-23,Effective,Partner A,226.08,4565,108.33611223161245,Low,Minor
+42,Prednisone,Pre-clinical,Oncology,2018-05-15,2018-11-08,Approved,USA,2070-12-22,Effective,Partner C,727.31,4852,188.90606782790832,High,Major
+45,Tetracycline,Phase I,Oncology,2018-08-13,2019-03-20,Approved,USA,2073-12-21,Effective,Partner A,364.23,5277,160.38890964179754,High,Major
+50,Zolpidem,Phase III,Oncology,2019-01-10,2019-04-07,Pending,China,2078-12-20,Not Effective,Partner B,560.21,2938,164.3072556730471,High,Minor

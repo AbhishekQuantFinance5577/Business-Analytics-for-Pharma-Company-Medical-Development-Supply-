@@ -1,0 +1,10 @@
+Drug_ID,Drug_Name,Phase,Therapeutic Area,Start_Date,End_Date,Regulatory Status,Research Site,Patent Expiry Date,Clinical Trial Results,Development Partner,Market Potential $M,Number of Patients Enrolled,Cost_Million_USD,Success_Rate,Supply_Chain_Issues
+4,Amlodipine,Approval,Infectious Diseases,2015-04-01,2015-07-13,Approved,Brazil,2032-12-31,Effective,Partner A,902.84,6755,183.1275317976696,Medium,Major
+13,Dapagliflozin,Approval,Infectious Diseases,2015-12-27,2016-05-26,Approved,Germany,2041-12-29,More Data Needed,Partner A,121.88,4246,87.69890683690032,Medium,Major
+22,Gabapentin,Approval,Infectious Diseases,2016-09-22,2017-05-26,Rejected,Brazil,2050-12-27,Not Effective,Partner B,485.37,2591,62.97124856886754,Medium,Major
+23,Hydrochlorothiazide,Phase III,Infectious Diseases,2016-10-22,2017-09-17,Rejected,USA,2051-12-27,More Data Needed,Partner B,969.99,3224,195.9225951956802,Medium,Major
+25,Insulin Glargine,Pre-clinical,Infectious Diseases,2016-12-21,2017-11-07,Rejected,India,2053-12-26,Effective,Partner B,867.71,3151,4.415059264518296,Low,Major
+31,Loratadine,Phase II,Infectious Diseases,2017-06-19,2017-10-17,Pending,China,2059-12-25,More Data Needed,Partner B,601.12,9283,10.563725915209712,High,None
+33,Metoprolol,Phase III,Infectious Diseases,2017-08-18,2017-10-05,Rejected,USA,2061-12-24,Not Effective,Partner B,726.43,4242,177.44939707231146,Low,Major
+34,Naproxen,Pre-clinical,Infectious Diseases,2017-09-17,2017-11-24,Rejected,China,2062-12-24,More Data Needed,Partner B,613.06,7066,52.91783104500108,Low,None
+47,Trimethoprim,Phase I,Infectious Diseases,2018-10-12,2019-09-18,Rejected,USA,2075-12-21,More Data Needed,Partner C,829.1,9032,115.10004129271474,Medium,None

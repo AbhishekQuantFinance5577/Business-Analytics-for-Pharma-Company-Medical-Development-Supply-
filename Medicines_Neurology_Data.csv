@@ -1,0 +1,14 @@
+Drug_ID,Drug_Name,Phase,Therapeutic Area,Start_Date,End_Date,Regulatory Status,Research Site,Patent Expiry Date,Clinical Trial Results,Development Partner,Market Potential $M,Number of Patients Enrolled,Cost_Million_USD,Success_Rate,Supply_Chain_Issues
+1,Abacavir,Phase III,Neurology,2015-01-01,2015-09-26,Rejected,China,2030-01-01,Not Effective,Partner C,319.59,8092,86.23458051308144,High,None
+2,Acetaminophen,Approval,Neurology,2015-01-31,2015-05-16,Approved,Germany,2031-01-01,More Data Needed,Partner C,975.71,4880,138.0114802523079,Low,Major
+3,Albuterol,Phase II,Neurology,2015-03-02,2015-04-09,Pending,Germany,2032-01-01,Effective,Partner B,453.79,2468,12.580525506180278,Low,None
+7,Azithromycin,Phase II,Neurology,2015-06-30,2015-08-05,Pending,China,2035-12-31,Not Effective,Partner A,552.37,9263,19.68078472617706,Low,None
+9,Cetirizine,Phase II,Neurology,2015-08-29,2016-02-15,Rejected,China,2037-12-30,Effective,Partner A,543.27,6714,186.98818547060225,Medium,Minor
+12,Codeine,Phase II,Neurology,2015-11-27,2016-10-04,Rejected,India,2040-12-29,More Data Needed,Partner C,352.7,953,131.7651543715332,High,None
+16,Diclofenac,Phase I,Neurology,2016-03-26,2016-05-23,Rejected,USA,2044-12-28,Effective,Partner C,946.41,1248,113.64140488832118,Low,None
+19,Doxycycline,Pre-clinical,Neurology,2016-06-24,2017-06-09,Approved,India,2047-12-28,Effective,Partner A,433.14,7609,69.03405367656391,Medium,None
+20,Esomeprazole,Phase III,Neurology,2016-07-24,2017-01-14,Approved,USA,2048-12-27,Not Effective,Partner C,113.91,4877,19.268014096874936,Medium,Major
+28,Labetalol,Phase I,Neurology,2017-03-21,2018-01-19,Rejected,USA,2056-12-25,Not Effective,Partner A,866.02,5415,69.91455989679076,Low,Major
+29,Lidocaine,Phase III,Neurology,2017-04-20,2017-11-17,Rejected,India,2057-12-25,Effective,Partner A,385.23,4969,93.47008877498268,Medium,None
+30,Lisinopril,Phase III,Neurology,2017-05-20,2017-12-02,Pending,Germany,2058-12-25,More Data Needed,Partner B,252.54,976,130.3049628459099,Low,Major
+39,Paroxetine,Pre-clinical,Neurology,2018-02-14,2018-10-21,Approved,China,2067-12-23,Effective,Partner A,566.5,735,137.10879011023007,Low,Minor

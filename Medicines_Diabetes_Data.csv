@@ -1,0 +1,7 @@
+Drug_ID,Drug_Name,Phase,Therapeutic Area,Start_Date,End_Date,Regulatory Status,Research Site,Patent Expiry Date,Clinical Trial Results,Development Partner,Market Potential $M,Number of Patients Enrolled,Cost_Million_USD,Success_Rate,Supply_Chain_Issues
+5,Amoxicillin,Approval,Diabetes,2015-05-01,2016-02-07,Rejected,USA,2033-12-31,Effective,Partner A,668.02,8273,89.02809371648978,High,None
+40,Penicillin,Phase I,Diabetes,2018-03-16,2018-08-18,Rejected,Germany,2068-12-22,More Data Needed,Partner B,889.64,1793,123.55438171359285,High,Major
+41,Phenytoin,Phase III,Diabetes,2018-04-15,2018-07-11,Rejected,India,2069-12-22,Not Effective,Partner A,766.69,9974,188.83442930759068,Low,Minor
+43,Ranitidine,Phase III,Diabetes,2018-06-14,2019-05-26,Rejected,Brazil,2071-12-22,More Data Needed,Partner C,732.24,8411,173.57258777744576,Medium,Minor
+44,Simvastatin,Phase I,Diabetes,2018-07-14,2018-08-13,Rejected,USA,2072-12-21,Effective,Partner A,423.54,930,127.64431589175624,Low,None
+46,Tramadol,Pre-clinical,Diabetes,2018-09-12,2019-04-20,Approved,India,2074-12-21,Not Effective,Partner C,828.43,9661,135.75650013421335,High,Major

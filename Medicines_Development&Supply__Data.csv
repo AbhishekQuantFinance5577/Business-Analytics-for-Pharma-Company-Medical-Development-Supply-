@@ -1,0 +1,51 @@
+Drug_ID,Drug_Name,Phase,Therapeutic Area,Start_Date,End_Date,Regulatory Status,Research Site,Patent Expiry Date,Clinical Trial Results,Development Partner,Market Potential $M,Number of Patients Enrolled,Cost_Million_USD,Success_Rate,Supply_Chain_Issues
+8,Ceftriaxone,Phase II,Cardiovascular,2015-07-30,2016-02-18,Approved,China,2036-12-30,Not Effective,Partner B,619.21,6102,37.39033342435416,High,None
+10,Clindamycin,Approval,Cardiovascular,2015-09-28,2016-04-12,Pending,China,2038-12-30,Not Effective,Partner A,275.72,9458,128.01584817482671,Medium,None
+11,Clopidogrel,Phase III,Cardiovascular,2015-10-28,2016-05-14,Rejected,China,2039-12-30,Not Effective,Partner C,750.21,6019,103.82255522788677,Low,Minor
+14,Dexamethasone,Phase I,Cardiovascular,2016-01-26,2016-09-05,Rejected,China,2042-12-29,More Data Needed,Partner A,680.93,3869,146.2778239958019,High,Major
+15,Diazepam,Phase III,Cardiovascular,2016-02-25,2016-03-30,Approved,USA,2043-12-29,More Data Needed,Partner C,259.4,674,10.495509410638109,High,None
+17,Digoxin,Phase III,Cardiovascular,2016-04-25,2016-11-05,Pending,USA,2045-12-28,More Data Needed,Partner C,958.54,6393,32.57064308085572,Medium,None
+18,Diphenhydramine,Approval,Cardiovascular,2016-05-25,2016-11-06,Rejected,USA,2046-12-28,Not Effective,Partner B,923.38,6557,24.912764913322796,Low,Major
+24,Ibuprofen,Pre-clinical,Cardiovascular,2016-11-21,2017-05-01,Pending,India,2052-12-26,More Data Needed,Partner C,967.26,5791,35.89072370797837,High,Minor
+26,Ivermectin,Phase II,Cardiovascular,2017-01-20,2017-04-29,Rejected,USA,2054-12-26,Effective,Partner A,365.0,104,152.9095201777783,High,None
+48,Valacyclovir,Approval,Cardiovascular,2018-11-11,2019-04-06,Rejected,Germany,2076-12-20,More Data Needed,Partner B,880.37,8408,26.571570293548127,Low,Major
+49,Warfarin,Phase I,Cardiovascular,2018-12-11,2019-05-23,Rejected,Germany,2077-12-20,Not Effective,Partner C,921.92,6049,162.4296311704646,Low,Major
+5,Amoxicillin,Approval,Diabetes,2015-05-01,2016-02-07,Rejected,USA,2033-12-31,Effective,Partner A,668.02,8273,89.02809371648978,High,None
+40,Penicillin,Phase I,Diabetes,2018-03-16,2018-08-18,Rejected,Germany,2068-12-22,More Data Needed,Partner B,889.64,1793,123.55438171359285,High,Major
+41,Phenytoin,Phase III,Diabetes,2018-04-15,2018-07-11,Rejected,India,2069-12-22,Not Effective,Partner A,766.69,9974,188.83442930759068,Low,Minor
+43,Ranitidine,Phase III,Diabetes,2018-06-14,2019-05-26,Rejected,Brazil,2071-12-22,More Data Needed,Partner C,732.24,8411,173.57258777744576,Medium,Minor
+44,Simvastatin,Phase I,Diabetes,2018-07-14,2018-08-13,Rejected,USA,2072-12-21,Effective,Partner A,423.54,930,127.64431589175624,Low,None
+46,Tramadol,Pre-clinical,Diabetes,2018-09-12,2019-04-20,Approved,India,2074-12-21,Not Effective,Partner C,828.43,9661,135.75650013421335,High,Major
+4,Amlodipine,Approval,Infectious Diseases,2015-04-01,2015-07-13,Approved,Brazil,2032-12-31,Effective,Partner A,902.84,6755,183.1275317976696,Medium,Major
+13,Dapagliflozin,Approval,Infectious Diseases,2015-12-27,2016-05-26,Approved,Germany,2041-12-29,More Data Needed,Partner A,121.88,4246,87.69890683690032,Medium,Major
+22,Gabapentin,Approval,Infectious Diseases,2016-09-22,2017-05-26,Rejected,Brazil,2050-12-27,Not Effective,Partner B,485.37,2591,62.97124856886754,Medium,Major
+23,Hydrochlorothiazide,Phase III,Infectious Diseases,2016-10-22,2017-09-17,Rejected,USA,2051-12-27,More Data Needed,Partner B,969.99,3224,195.9225951956802,Medium,Major
+25,Insulin Glargine,Pre-clinical,Infectious Diseases,2016-12-21,2017-11-07,Rejected,India,2053-12-26,Effective,Partner B,867.71,3151,4.415059264518296,Low,Major
+31,Loratadine,Phase II,Infectious Diseases,2017-06-19,2017-10-17,Pending,China,2059-12-25,More Data Needed,Partner B,601.12,9283,10.563725915209712,High,None
+33,Metoprolol,Phase III,Infectious Diseases,2017-08-18,2017-10-05,Rejected,USA,2061-12-24,Not Effective,Partner B,726.43,4242,177.44939707231146,Low,Major
+34,Naproxen,Pre-clinical,Infectious Diseases,2017-09-17,2017-11-24,Rejected,China,2062-12-24,More Data Needed,Partner B,613.06,7066,52.91783104500108,Low,None
+47,Trimethoprim,Phase I,Infectious Diseases,2018-10-12,2019-09-18,Rejected,USA,2075-12-21,More Data Needed,Partner C,829.1,9032,115.10004129271474,Medium,None
+1,Abacavir,Phase III,Neurology,2015-01-01,2015-09-26,Rejected,China,2030-01-01,Not Effective,Partner C,319.59,8092,86.23458051308144,High,None
+2,Acetaminophen,Approval,Neurology,2015-01-31,2015-05-16,Approved,Germany,2031-01-01,More Data Needed,Partner C,975.71,4880,138.0114802523079,Low,Major
+3,Albuterol,Phase II,Neurology,2015-03-02,2015-04-09,Pending,Germany,2032-01-01,Effective,Partner B,453.79,2468,12.580525506180278,Low,None
+7,Azithromycin,Phase II,Neurology,2015-06-30,2015-08-05,Pending,China,2035-12-31,Not Effective,Partner A,552.37,9263,19.68078472617706,Low,None
+9,Cetirizine,Phase II,Neurology,2015-08-29,2016-02-15,Rejected,China,2037-12-30,Effective,Partner A,543.27,6714,186.98818547060225,Medium,Minor
+12,Codeine,Phase II,Neurology,2015-11-27,2016-10-04,Rejected,India,2040-12-29,More Data Needed,Partner C,352.7,953,131.7651543715332,High,None
+16,Diclofenac,Phase I,Neurology,2016-03-26,2016-05-23,Rejected,USA,2044-12-28,Effective,Partner C,946.41,1248,113.64140488832118,Low,None
+19,Doxycycline,Pre-clinical,Neurology,2016-06-24,2017-06-09,Approved,India,2047-12-28,Effective,Partner A,433.14,7609,69.03405367656391,Medium,None
+20,Esomeprazole,Phase III,Neurology,2016-07-24,2017-01-14,Approved,USA,2048-12-27,Not Effective,Partner C,113.91,4877,19.268014096874936,Medium,Major
+28,Labetalol,Phase I,Neurology,2017-03-21,2018-01-19,Rejected,USA,2056-12-25,Not Effective,Partner A,866.02,5415,69.91455989679076,Low,Major
+29,Lidocaine,Phase III,Neurology,2017-04-20,2017-11-17,Rejected,India,2057-12-25,Effective,Partner A,385.23,4969,93.47008877498268,Medium,None
+30,Lisinopril,Phase III,Neurology,2017-05-20,2017-12-02,Pending,Germany,2058-12-25,More Data Needed,Partner B,252.54,976,130.3049628459099,Low,Major
+39,Paroxetine,Pre-clinical,Neurology,2018-02-14,2018-10-21,Approved,China,2067-12-23,Effective,Partner A,566.5,735,137.10879011023007,Low,Minor
+6,Atorvastatin,Phase I,Oncology,2015-05-31,2016-02-14,Rejected,Brazil,2034-12-31,More Data Needed,Partner B,815.33,4595,48.71768447232324,Low,Minor
+21,Fentanyl,Phase I,Oncology,2016-08-23,2017-08-14,Pending,China,2049-12-27,Not Effective,Partner A,935.49,3954,19.737240665443466,Medium,Minor
+27,Ketamine,Phase II,Oncology,2017-02-19,2017-11-27,Approved,Brazil,2055-12-26,More Data Needed,Partner C,446.59,5322,161.5756824331051,Medium,None
+32,Methotrexate,Phase III,Oncology,2017-07-19,2018-03-07,Approved,India,2060-12-24,More Data Needed,Partner B,942.54,7127,189.8800005866858,Low,None
+35,Nifedipine,Phase II,Oncology,2017-10-17,2018-03-21,Rejected,USA,2063-12-24,More Data Needed,Partner C,187.46,7179,4.0456035177865655,Low,Major
+36,Omeprazole,Approval,Oncology,2017-11-16,2018-06-06,Approved,USA,2064-12-23,More Data Needed,Partner A,653.51,8087,186.75382530781712,Low,None
+37,Oxycodone,Phase II,Oncology,2017-12-16,2018-06-04,Approved,Germany,2065-12-23,More Data Needed,Partner A,991.05,6899,100.70693689913658,Medium,None
+38,Pantoprazole,Approval,Oncology,2018-01-15,2018-10-13,Pending,China,2066-12-23,Effective,Partner A,226.08,4565,108.33611223161245,Low,Minor
+42,Prednisone,Pre-clinical,Oncology,2018-05-15,2018-11-08,Approved,USA,2070-12-22,Effective,Partner C,727.31,4852,188.90606782790832,High,Major
+45,Tetracycline,Phase I,Oncology,2018-08-13,2019-03-20,Approved,USA,2073-12-21,Effective,Partner A,364.23,5277,160.38890964179754,High,Major
+50,Zolpidem,Phase III,Oncology,2019-01-10,2019-04-07,Pending,China,2078-12-20,Not Effective,Partner B,560.21,2938,164.3072556730471,High,Minor

@@ -1,0 +1,12 @@
+Drug_ID,Drug_Name,Phase,Therapeutic Area,Start_Date,End_Date,Regulatory Status,Research Site,Patent Expiry Date,Clinical Trial Results,Development Partner,Market Potential $M,Number of Patients Enrolled,Cost_Million_USD,Success_Rate,Supply_Chain_Issues
+8,Ceftriaxone,Phase II,Cardiovascular,2015-07-30,2016-02-18,Approved,China,2036-12-30,Not Effective,Partner B,619.21,6102,37.39033342435416,High,None
+10,Clindamycin,Approval,Cardiovascular,2015-09-28,2016-04-12,Pending,China,2038-12-30,Not Effective,Partner A,275.72,9458,128.01584817482671,Medium,None
+11,Clopidogrel,Phase III,Cardiovascular,2015-10-28,2016-05-14,Rejected,China,2039-12-30,Not Effective,Partner C,750.21,6019,103.82255522788677,Low,Minor
+14,Dexamethasone,Phase I,Cardiovascular,2016-01-26,2016-09-05,Rejected,China,2042-12-29,More Data Needed,Partner A,680.93,3869,146.2778239958019,High,Major
+15,Diazepam,Phase III,Cardiovascular,2016-02-25,2016-03-30,Approved,USA,2043-12-29,More Data Needed,Partner C,259.4,674,10.495509410638109,High,None
+17,Digoxin,Phase III,Cardiovascular,2016-04-25,2016-11-05,Pending,USA,2045-12-28,More Data Needed,Partner C,958.54,6393,32.57064308085572,Medium,None
+18,Diphenhydramine,Approval,Cardiovascular,2016-05-25,2016-11-06,Rejected,USA,2046-12-28,Not Effective,Partner B,923.38,6557,24.912764913322796,Low,Major
+24,Ibuprofen,Pre-clinical,Cardiovascular,2016-11-21,2017-05-01,Pending,India,2052-12-26,More Data Needed,Partner C,967.26,5791,35.89072370797837,High,Minor
+26,Ivermectin,Phase II,Cardiovascular,2017-01-20,2017-04-29,Rejected,USA,2054-12-26,Effective,Partner A,365.0,104,152.9095201777783,High,None
+48,Valacyclovir,Approval,Cardiovascular,2018-11-11,2019-04-06,Rejected,Germany,2076-12-20,More Data Needed,Partner B,880.37,8408,26.571570293548127,Low,Major
+49,Warfarin,Phase I,Cardiovascular,2018-12-11,2019-05-23,Rejected,Germany,2077-12-20,Not Effective,Partner C,921.92,6049,162.4296311704646,Low,Major
